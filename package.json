@@ -1,0 +1,14 @@
+{
+  "name": "elbadekoracje",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch ./scss/index.scss ./style/index.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^3.8.0"
+  }
+}
